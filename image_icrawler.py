@@ -3,14 +3,14 @@ import os
 import cv2
 import copy
 
-gryffindor = ["harry james potter","ron weasley","hermione granger","albus dumbledore","minerva mcgonagall","james potter",
-              "lily potter","remus lupin","sirius black","neville longbottom","oliver wood"]
-ravenclaw = ["helena ravenclaw","quirell","ollivander","sybill trelawney","filius flitwick","gideroy lockhart",
-             "cho chang","luna lovegood","xenophilius lovegood","myrtle warren"]
-hufflepuff = ["eldritch diggory","newton scamander","nymphadora tonks","cedric diggory","susan bones","theseus scamander",
-              "justin finch-fletchley","ernie mcmillan","pomona sprout","zacharias smith"]
-slytherin = ["draco malfoy","severus snape","tom riddle","bellatrix lestrange","narcissa malfoy","lucius malfoy",
-             "dolores umbridge","horace slughorn","leta restrange","vincent crabbe","gregory goyle"]
+# gryffindor = ["harry james potter","ron weasley","hermione granger","albus dumbledore","minerva mcgonagall","james potter",
+#               "lily potter","remus lupin","sirius black","neville longbottom","oliver wood"]
+# ravenclaw = ["helena ravenclaw","quirell","ollivander","sybill trelawney","filius flitwick","gideroy lockhart",
+#              "cho chang","luna lovegood","xenophilius lovegood","myrtle warren"]
+# hufflepuff = ["eldritch diggory","newton scamander","nymphadora tonks","cedric diggory","susan bones","theseus scamander",
+#               "justin finch-fletchley","ernie mcmillan","pomona sprout","zacharias smith"]
+# slytherin = ["draco malfoy","severus snape","tom riddle","bellatrix lestrange","narcissa malfoy","lucius malfoy",
+#              "dolores umbridge","horace slughorn","leta restrange","vincent crabbe","gregory goyle"]
 
 gryffindor = ["gryffindor","harry james potter","ron weasley","hermione granger","albus dumbledore","minerva mcgonagall","james potter",
               "lily potter","remus lupin","sirius black","neville longbottom","oliver wood"]
